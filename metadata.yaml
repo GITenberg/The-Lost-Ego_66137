@@ -1,5 +1,8 @@
 _repo: The-Lost-Ego_66137
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66137-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, Rog
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34753
     wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66137#The-Lost-Ego
 gutenberg_issued: '2021-08-25'
 identifiers:
   gutenberg: '66137'
